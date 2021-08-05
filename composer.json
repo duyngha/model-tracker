@@ -1,15 +1,15 @@
 {
-    "name": "duyngha/model-tracker",
-    "description": "Tracking model activities",
+    "name": "duyngha/motrac",
+    "description": "Tracking model activities using MongoDB in Laravel",
     "require": {
         "jenssegers/mongodb": "^3.8"
     },
     "license": "MIT",
     "authors": [
         {
-            "name": "duyngha",
+            "name": "Nguyen Ha Duy",
             "email": "duyngha@gmail.com"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }

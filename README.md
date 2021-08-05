@@ -41,3 +41,14 @@ class Task extends Model
     protected $trackableModel = TaskTrackable::class;
 }
 ```
+
+- If you would like to tracking the model on specific fields only. Then add the fields into `$trackingFields` array in main model.
+
+```php
+class Task extends Model
+{
+    protected $trackingFields = [
+        'name'
+    ];
+}
+```
