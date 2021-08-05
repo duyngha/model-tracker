@@ -1,0 +1,15 @@
+{
+    "name": "duyngha/model-tracker",
+    "description": "Tracking model activities",
+    "require": {
+        "jenssegers/mongodb": "^3.8"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "duyngha",
+            "email": "duyngha@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
