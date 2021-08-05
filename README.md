@@ -2,7 +2,7 @@
 
 ## Installation
 ```shell
-composer require duyngha/model-tracker
+composer require duyngha/motrac
 ```
 
 ## How to use
