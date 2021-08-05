@@ -11,5 +11,10 @@
             "email": "duyngha@gmail.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Duyngha\\ModelTracker\\": "src/"
+        }
+    }
 }
